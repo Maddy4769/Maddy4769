@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me maddyXVI@yandex.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+
+
 
 <!---
 Maddy4769/Maddy4769 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
